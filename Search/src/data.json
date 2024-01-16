@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "house": "Elegant Manor",
+    "price": 12000,
+    "rooms": 4
+  },
+  {
+    "id": 2,
+    "house": "Cozy Cottage",
+    "price": 6000,
+    "rooms": 2
+  },
+  {
+    "id": 3,
+    "house": "Modern Loft",
+    "price": 45000,
+    "rooms": 1
+  },
+  {
+    "id": 4,
+    "house": "Rustic Retreat",
+    "price": 3000,
+    "rooms": 2
+  },
+  {
+    "id": 5,
+    "house": "Majestic Mansion",
+    "price": 22000,
+    "rooms": 3
+  },
+  {
+    "id": 6,
+    "house": "Quaint Bungalow",
+    "price": 7500,
+    "rooms": 1
+  },
+  {
+    "id": 7,
+    "house": "Spacious Villa",
+    "price": 32000,
+    "rooms": 4
+  },
+  {
+    "id": 8,
+    "house": "Charming Chalet",
+    "price": 18000,
+    "rooms": 3
+  },
+  {
+    "id": 9,
+    "house": "Tranquil Haven",
+    "price": 9000,
+    "rooms": 2
+  },
+  {
+    "id": 10,
+    "house": "Grand Estate",
+    "price": 40000,
+    "rooms": 5
+  },
+  {
+    "id": 11,
+    "house": "Serene Sanctuary",
+    "price": 16000,
+    "rooms": 3
+  },
+  {
+    "id": 12,
+    "house": "Idyllic Cabin",
+    "price": 5500,
+    "rooms": 2
+  },
+  {
+    "id": 13,
+    "house": "Luxurious Palazzo",
+    "price": 28000,
+    "rooms": 4
+  },
+  {
+    "id": 14,
+    "house": "Sunny Retreat",
+    "price": 12000,
+    "rooms": 2
+  },
+  {
+    "id": 15,
+    "house": "Harmony House",
+    "price": 42000,
+    "rooms": 3
+  },
+  {
+    "id": 16,
+    "house": "Tranquil Oasis",
+    "price": 7500,
+    "rooms": 1
+  },
+  {
+    "id": 17,
+    "house": "Stately Manor",
+    "price": 34000,
+    "rooms": 4
+  },
+  {
+    "id": 18,
+    "house": "Elegant Residence",
+    "price": 20000,
+    "rooms": 3
+  },
+  {
+    "id": 19,
+    "house": "Coastal Cottage",
+    "price": 10000,
+    "rooms": 2
+  },
+  {
+    "id": 20,
+    "house": "Mountain View Retreat",
+    "price": 48000,
+    "rooms": 5
+  }
+]
